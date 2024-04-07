@@ -58,3 +58,12 @@ video {
   height: 240px;
 }
 
+/* Banner styles */
+.banner {
+  text-align: center;
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.banner img {
+  max-width: 100%;
+}
