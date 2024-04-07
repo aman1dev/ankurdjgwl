@@ -39,21 +39,21 @@ ul {
   margin-bottom: 5px;
 }
 
-/* Additional styles */
-
-/* Ensure consistent font sizes */
-h2, h3 {
-  font-size: 1.5em; /* Adjust as needed */
+/* Media container */
+.media-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
-/* Improve list styling */
-ul.custom-list {
-  list-style: square; /* Custom list style */
-  padding-left: 30px; /* Adjust spacing */
+/* Media styles */
+.media {
+  margin: 10px;
 }
 
-/* Add hover effect to links */
-a:hover {
-  color: #007bff; /* Change color on hover */
-  text-decoration: underline; /* Underline on hover */
+/* Video styles */
+video {
+  width: 320px;
+  height: 240px;
 }
