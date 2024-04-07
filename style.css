@@ -1,0 +1,59 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Header styles */
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* Subheader styles */
+h4 {
+  margin-top: 20px;
+}
+
+/* Paragraph and unordered list styles */
+p,
+ul {
+  margin-bottom: 10px;
+}
+
+/* Unordered list styles */
+ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+/* Contact information section styles */
+.contact-info {
+  margin-top: 20px;
+}
+
+/* Contact information paragraph styles */
+.contact-info p {
+  margin-bottom: 5px;
+}
+
+/* Additional styles */
+
+/* Ensure consistent font sizes */
+h2, h3 {
+  font-size: 1.5em; /* Adjust as needed */
+}
+
+/* Improve list styling */
+ul.custom-list {
+  list-style: square; /* Custom list style */
+  padding-left: 30px; /* Adjust spacing */
+}
+
+/* Add hover effect to links */
+a:hover {
+  color: #007bff; /* Change color on hover */
+  text-decoration: underline; /* Underline on hover */
+}
